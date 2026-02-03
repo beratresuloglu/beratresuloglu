@@ -41,17 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beratresuloglu&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
-  
-  <br /> <br />
-
-  <img src="https://streak-stats.demolab.com?user=beratresuloglu&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
