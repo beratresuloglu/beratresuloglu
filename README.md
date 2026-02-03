@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on **Flutter Mobile Games & .NET Web Applications**
 - 🌱 I’m currently learning **Advanced IoT Systems & Software Architecture**
 - 👯 I’m looking to collaborate on **Open Source C# & Flutter projects**
-- ⚡ Fun fact: **I enjoy strategic depth in games like Mount & Blade II: Bannerlord.**
 
 ---
 
