@@ -44,10 +44,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratresuloglu&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratresuloglu&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=beratresuloglu&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
+  
+  <br /> <br />
 
+  <img src="https://streak-stats.demolab.com?user=beratresuloglu&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 ---
 
 ### 🚀 Featured Projects
