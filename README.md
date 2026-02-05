@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Berat 👋</h1>
 <h3 align="center">Computer Engineering Student @ Sakarya University 🎓</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beratresuloglu&label=Profile%20Views&color=0e75b6&style=flat" alt="beratresuloglu" />
-</p>
+
 
 <p align="center">
   <em>Geleceğin teknolojilerini bugünden kodluyorum. Yazılım mimarisi ve donanım entegrasyonu (IoT) üzerine çalışıyorum.</em>
